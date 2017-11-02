@@ -1,0 +1,11 @@
+テーマ: materia-dark-compact
+外観: materia-dark-compact
+launcher: plank & albert
+orange: %m月%d日 %R
+panel: ウィンドウボタン,拡張セパレータ,インジケータプラグイン,拡張セパレータ,ネットワークモニター(wlan),ネットワークモニター(eth),ウィンドウメニュー,orangeパネル時計
+マウス: DMZ(黒)
+
+ショートカット:
+amixer set Master 5%+  XF86AudioRaiseVolume
+amixer set Master 5%-  XF86AudioLowerVolume
+xfce4-screenshooter -f  Print
