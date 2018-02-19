@@ -1,5 +1,6 @@
 テーマ: materia-dark-compact
 外観: materia-dark-compact
+icon: Papirus
 launcher: plank & albert
 orange: %m月%d日 %R
 panel: ウィンドウボタン,拡張セパレータ,インジケータプラグイン,拡張セパレータ,ネットワークモニター(wlan),ネットワークモニター(eth),ウィンドウメニュー,orangeパネル時計
