@@ -151,7 +151,7 @@
 - [僕がピチピチJCの時に作ったガバガバdocker管理ソフトを晒す](https://qiita.com/onokatio/items/b03a6d0dc440bea9dd78)
 - [ラズパイでシステムの状況をツイッターにつぶやこう (2)](https://qiita.com/onokatio/items/466665fcf6b0f2d12aea)
 - [ラズパイでシステムの状況をツイッターにつぶやこう (1)](https://qiita.com/onokatio/items/ada23d4ff6af69a8a5df)
-- [https://qiita.com/onokatio/items/9936034fddb723419194](https://qiita.com/onokatio/items/9936034fddb723419194)
+- [暗号通貨（仮想通貨）プラットフォーム、NEMのウォレットを、ブラウザの拡張機能で動くようにしてみた。](https://qiita.com/onokatio/items/9936034fddb723419194)
 
 **連絡先**
 
