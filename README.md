@@ -12,38 +12,34 @@
 **資格**
 
 - 基本情報技術者
-
+- 応用情報技術者
 
 **特技**
 
 - フレームワークを使わない、簡単なPHPアプリケーション（Mysql操作も含む）
+- Laravelを使ったPHPアプリケーション
 - 簡単なSQLを使ったデータ集計など（SUMとか）
 - 700行程度のシェルスクリプトを使ったスクリプト
-- シェル芸で作業自動化
-- HTML5とCSS3を使ったモダン（笑）なサイト
+- シェル芸
+- HTML5,CSS3
 - 最低限人のgulp弄ったりする程度のJS
-- C言語を使って簡単なアルゴリズムの実装（バブルソートとか）
-- P2SH ~ Lightning Networkレベルのブロックチェーン
-- 機能追加やテストの追加など、仮想通貨のソースの修正（C++）
-- Ansibleを使ったサービスのデプロイやサーバーのプロビジョニング
+- C言語を使って簡単なアルゴリズムの実装（バブルソート等）
+- P2SHレベルのブロックチェーン
+- 仮想通貨のソースの修正（機能追加やテストの追加など）
+- Ansibleを使ったプロビジョニングなど
 - Let's encryptを使ったSSL証明証の発行や導入
 - 3年以上のWebサーバー運用経験
-- GNU/Linuxカーネルに関する多少の知見
-- Linuxサーバーに関する一般的な運用
 - Homebrewパッケージの自作
 - Gitワークフローを使った複数人での開発
 - Travis CIを使ったテストやビルドの自動化
 - WebコンソールやAzure cli、AnsibleなどでのAzure運用
 - Apache, Nginx, bind, unbound, squidなど、OSS系サービスの導入・運営
-- ノイマン型アーキテクチャなCPUに関する多少の知識
 - H8マイコンを使った自作OSの改造
-- Vimを使った超人的なコーディング速度
-- Slack, DocBase, Jira, Trello, G suite などの業務ツールの使用
-- Vagrantで開発
-- TCP/IPの基本的な知識
-- ネットワークスイッチの初歩的なコンソール操作
+- Vagrant
+- TCP/IPの基本的な知識（たぶん）
+- ネットワークスイッチの操作
 - Dockerイメージの自作
-- Docker-composeを使ったデプロイ自動化
+- Docker-compose
 
 **イベント・大会での受賞経験など**
 
@@ -155,5 +151,5 @@
 
 **連絡先**
 
-- Email: onokatio@gmail.com または onokatio@kati0.com
+- Email: onokatio@gmail.com
 - Twitter: @onokatio_
