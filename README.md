@@ -100,6 +100,12 @@
 - さくらインターネット石狩DC見学
 - ICTSC2018 運営
 
+**インターンシップ**
+2017年8月〜9月 freee株式会社(SREチーム)
+2018年8月 セブンバニーズ株式会社
+2018年9月 CryptoeconomicsLab
+2018年9月 合同会社DMM.com(スマートコントラクト事業部)
+
 **Qiita執筆履歴**
 
 - [SECCON2017国内決勝大会 Write-up](https://qiita.com/onokatio/items/1a962c99fde76f6778b4)
