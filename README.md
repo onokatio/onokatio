@@ -15,6 +15,9 @@ Webサーバー自力で作りたいなーと思ってNginxをさわり、
 
 自分が一番興味がある領域は、Webフルスタックと、ネットワークインフラ、ブロックチェーン、セキュリティです。めんどくさがり屋なので、自動化が大好物です。
 
+<details>
+<summary>プロフィール</summary>
+
 ## 名前
 
 非公開
@@ -32,7 +35,10 @@ Webサーバー自力で作りたいなーと思ってNginxをさわり、
 - 基本情報技術者 (2016年)
 - 応用情報技術者 (2018年)
 
-## 職歴・インターンシップ・アルバイト等
+</details>
+
+<details>
+<summary>職歴・インターンシップ・アルバイト等</summary>
 
 - 2017年〜 fressets 株式会社 （インフラ AnsibleでAzureのサーバー作成自動化など）
 - 2017年8月〜9月 freee 株式会社 （SREチーム Ansibleでの環境構築の自動化）
@@ -42,7 +48,10 @@ Webサーバー自力で作りたいなーと思ってNginxをさわり、
 - 2019年8月~9月 LINE Fukuoka 株式会社 （インフラ ロードバランサのカオスエンジニアリング）
 - 2019年9月 GMOインターネット株式会社 (次世代システム研究室 ブロックチェーンチーム Plasma MVP on Plasma MVPの実装)
 
-## 成果物・今までに作ったもの
+</details>
+
+<details>
+<summary>成果物・今までに作ったもの</summary>
 
 - ポートフォリオサイト（今見ているサイト & ブログ）
 - [へそのお](https://github.com/onokatio/hesonoo)
@@ -64,10 +73,18 @@ Webサーバー自力で作りたいなーと思ってNginxをさわり、
 - [短歌Bot](https://github.com/onokatio/tanka)
 - [Java勉強の成果みたいなの](https://github.com/onokatio/2world)
 
-## 今までに作ったPull RequsetとIssue
+</details>
 
+<details>
+<summary>今までに作ったPull RequsetとIssue</summary>
+  
 - https://github.com/pulls?page=1&q=author%3Aonokatio+sort%3Aupdated-desc+is%3Aclosed+is%3Apublic
 - https://github.com/search?q=author%3Aonokatio+sort%3Aupdated-desc+is%3Aclosed+is%3Apublic
+
+</details>
+
+<details>
+<summary>スキルセット</summary>
 
 ## スキルセット
 
@@ -144,6 +161,11 @@ Webサーバー自力で作りたいなーと思ってNginxをさわり、
 - kube monkeyの設定、デプロイ、利用
 - pumbaの設定、デプロイ、利用
 
+</details>
+
+<details>
+<summary>活動履歴</summary>
+
 ## イベント・大会での受賞、出場経験など
 
 - [ICTトラブルシューティングコンテスト 第7回](https://icttoracon.net/archives/category/%e7%ac%ac7%e5%9b%9e%e3%83%88%e3%83%a9%e3%82%b3%e3%83%b3) 本戦出場 (2017年3月4日、5日)
@@ -208,6 +230,9 @@ Webサーバー自力で作りたいなーと思ってNginxをさわり、
   - 本線問題作成 [ICTSC2018 本戦 問題解説: バックアップは大事だよ](https://blog.icttoracon.net/2019/03/21/ictsc2018-f-18/)
 - ICTトラブルシューティングコンテスト 2019 運営
 
+</details>
+
+
 ## リンク
 
 https://qiita.com/onokatio
@@ -219,7 +244,8 @@ https://www.wantedly.com/users/83202215
 
 - Email: onokatio@gmail.com
 
-----
+<details>
+<summary>その他</summary>
 
 ここから下は多分いらない情報。好きあらば突然の自分語り
 
@@ -311,3 +337,5 @@ SecHack365というハッカソンで作ったアプリケーション。
 
 - [onokatio/bitcoin-script-vm](https://github.com/onokatio/bitcoin-script-vm)  
 Rust言語製の、Bitcoin Scriptスタックマシン。Rustが話題になってた頃に勉強目的で作り始めた。一応ちゃんと動く。四則演算と条件分岐を実装したものの、その後だんだんと触らなくなってしまった作品。こういう半永久的にWIPな作品は大量にある。
+
+</details>
