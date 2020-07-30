@@ -1,5 +1,5 @@
-# Profile
-
+![stats](https://github-readme-stats.vercel.app/api?username=onokatio&count_private=true&show_icons=true)
+![language](https://github-readme-stats.vercel.app/api/top-langs/?username=onokatio&layout=compact)
 
 <details>
 <summary>簡単な経歴、自己紹介など</summary>
