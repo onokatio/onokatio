@@ -239,10 +239,8 @@ Webサーバー自力で作りたいなーと思ってNginxをさわり、
 
 ## リンク
 
-https://qiita.com/onokatio
-https://github.com/onokatio
-https://www.wantedly.com/users/83202215
-
+- https://qiita.com/onokatio
+- https://keybase.io/onokatio_
 
 ## 連絡先
 
