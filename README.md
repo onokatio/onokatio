@@ -1,5 +1,5 @@
 If no copyright is written and no COPYING/LICENSE file exists, the all code and document of all my public repository are under GPL 3.0.  
-明記のない限り全コードはGPL3です。  
+明記のない限り https://github.com/onokatio 以下の全リポジトリ・全コードはGPL3です。  
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/onokatio/posts.svg)](http://qiita.com/onokatio)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/onokatio/contributions.svg)](http://qiita.com/onokatio)
